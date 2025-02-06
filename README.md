@@ -1,5 +1,3 @@
-Hi! We are **HandyMart Team**, We have created this website to help local people.
-
 # Install Dependencies
 
 **For Backend** - `npm i`
